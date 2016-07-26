@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 ./import_bungalownet.sh; \
 ./import_cheaptickets.sh; \
 ./import_clubmed.sh; \
