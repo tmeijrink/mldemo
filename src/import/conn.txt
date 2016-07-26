@@ -3,6 +3,6 @@ admin
 -password
 admin
 -host
-mldemo-ml1
+ML-ml1
 -port
 8000
