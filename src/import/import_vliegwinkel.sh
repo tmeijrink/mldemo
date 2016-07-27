@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-mlcp.sh import -options_file conn.txt -database tickler-content -mode local -input_file_type aggregates -input_file_path travelfeeds/vliegwinkel.xml -aggregate_record_element product
+mlcp.sh import -options_file conn.txt -database tickler-content -mode local -input_file_type aggregates -input_file_path travelfeeds/tt-vliegwinkel.xml -aggregate_record_element product
